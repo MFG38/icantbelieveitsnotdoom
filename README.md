@@ -4,24 +4,24 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 ## Projects
 
 ### Finished/Released
-* [https://batandy.itch.io/simonsdestiny Castlevania: Simon's Destiny]
-* DOOM: The Golden Souls [https://batandy.itch.io/goldensouls 1] & [https://batandy.itch.io/goldensouls2 2]
-* [https://reelism.dog/ Reelism 2]
-* [https://store.steampowered.com/app/1715690/REKKR_Sunken_Land/ REKKR: Sunken Land]
-* [https://www.moddb.com/mods/shadow-of-the-wool-ball Shadow of the Wool Ball] & [https://www.moddb.com/mods/rise-of-the-wool-ball-v13 Rise of the Wool Ball]
-* [https://store.steampowered.com/app/1271050/Shrine/ Shrine] & [https://store.steampowered.com/app/1417010/Shrine_II/ Shrine II]
-* [https://www.moddb.com/mods/total-chaos Total Chaos]
-* [https://store.steampowered.com/app/1549750/Vomitoreum/ Vomitoreum]
+* [Castlevania: Simon's Destiny](https://batandy.itch.io/simonsdestiny)
+* DOOM: The Golden Souls [1](https://batandy.itch.io/goldensouls) & [2](https://batandy.itch.io/goldensouls2)
+* [Reelism 2](https://reelism.dog/)
+* [REKKR: Sunken Land](https://store.steampowered.com/app/1715690/REKKR_Sunken_Land/)
+* [Shadow](https://www.moddb.com/mods/shadow-of-the-wool-ball) & [Rise of the Wool Ball](https://www.moddb.com/mods/rise-of-the-wool-ball-v13)
+* [Shrine](https://store.steampowered.com/app/1271050/Shrine/) & [Shrine II](https://store.steampowered.com/app/1417010/Shrine_II/)
+* [Total Chaos](https://www.moddb.com/mods/total-chaos)
+* [Vomitoreum](https://store.steampowered.com/app/1549750/Vomitoreum/)
 
 ### WIP
-* [https://store.steampowered.com/app/1779060/The_Age_of_Hell/ The Age of Hell]
-* [https://store.steampowered.com/app/1665260/Beyond_Sunset/ Beyond Sunset]
-* [https://www.moddb.com/mods/deluge-onset Deluge: Onset]
-* [https://batandy.itch.io/goldensouls3 DOOM: The Golden Souls 3]
-* [https://twitter.com/hellslingergame Hellslinger]
-* [https://store.steampowered.com/app/1592280/Selaco/ Selaco]
-* [https://store.steampowered.com/app/1693280/Supplice/ Supplice]
-* [https://twitter.com/BrainMeltGames ÄRGER: Death Machine]
+* [The Age of Hell](https://store.steampowered.com/app/1779060/The_Age_of_Hell/)
+* [Beyond Sunset](https://store.steampowered.com/app/1665260/Beyond_Sunset/)
+* [Deluge: Onset](https://www.moddb.com/mods/deluge-onset)
+* [DOOM: The Golden Souls 3](https://batandy.itch.io/goldensouls3)
+* [Hellslinger](https://twitter.com/hellslingergame)
+* [Selaco](https://store.steampowered.com/app/1592280/Selaco/)
+* [Supplice](https://store.steampowered.com/app/1693280/Supplice/)
+* [ÄRGER: Death Machine](https://twitter.com/BrainMeltGames)
 
 ## Why did I decide to do this?
 Because boredom, basically.

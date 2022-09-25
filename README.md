@@ -33,7 +33,7 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 Because boredom, basically.
 
 ## Contributing guidelines
-COMING SOON(ISH)
+See [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ## License
-Licensed under the MIT License. See the LICENSE file for more information.
+Licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.

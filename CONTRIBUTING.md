@@ -26,7 +26,7 @@ If possible, provide a link to the project's website, Steam page, forum thread o
 Projects should be sorted in alphabetical order. Please take care to submit your suggested additions in correct alphabetical order. Ignore first-word articles "a", "an", "the" in the sorting.
 
 ### Series
-Series with several entries should be listed on a single bullet-point line in order of appearance (oldest to newest). In cases where the entries share parts of the title, full titles do not have to be provided. Use commas (,) and ampersands (&) to separate the entries according to the guide below:
+Series with several entries should be listed on a single bullet-point line in order of appearance (oldest to newest). In cases where the entries share parts of the title, full titles do not have to be provided. Use commas (**,**) and ampersands (**&**) to separate the entries according to the guide below:
 * Only 2 entries in a series: **&**
 * All entries except the last 2 in series with more than 2 entries: **,**
 * Last 2 entries in series with more than 2 entries: **&**

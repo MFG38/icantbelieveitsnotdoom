@@ -10,7 +10,7 @@ Before adding a project, consider whether it fits within the criteria defined be
 
 ### What will NOT be accepted
 * Single or multi-map WADs with few or no original assets
-* WADs that add or modify graphics, sound effects, music etc.
+* WADs that only add or modify graphics, sound effects, music etc.
 * Gameplay/weapon mods
 
 ### What MAY be accepted (handled on a case-by-case basis)

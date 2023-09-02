@@ -29,6 +29,7 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 * [DOOM: The Golden Souls 3](https://batandy.itch.io/goldensouls3)
 * [Hellslinger](https://twitter.com/hellslingergame)
 * [Project Absentia](https://store.steampowered.com/app/1662010/Project_Absentia/)
+* [QYARIA](https://www.doomworld.com/forum/topic/139562-qyaria-a-wip-gzdoom-game/)
 * [Selaco](https://store.steampowered.com/app/1592280/Selaco/)
 * [Supplice](https://store.steampowered.com/app/1693280/Supplice/)
 * [ÄRGER: Death Machine](https://twitter.com/BrainMeltGames)

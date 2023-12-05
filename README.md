@@ -25,7 +25,7 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 * [Beyond Sunset](https://store.steampowered.com/app/1665260/Beyond_Sunset/)
 * [Deluge: Onset](https://www.moddb.com/mods/deluge-onset)
 * [DISDAIN](https://store.steampowered.com/app/2113270/DISDAIN/)
-* [Divine Frequency](https://www.moddb.com/mods/divine-frequency)
+* [Divine Frequency](https://store.steampowered.com/app/2548880/Divine_Frequency/)
 * [DOOM: The Golden Souls 3](https://batandy.itch.io/goldensouls3)
 * [Hellslinger](https://twitter.com/hellslingergame)
 * [Project Absentia](https://store.steampowered.com/app/1662010/Project_Absentia/)

@@ -5,6 +5,7 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 
 ### Finished/Released
 * [The Adventures of Square](http://adventuresofsquare.com/)
+* [Beyond Sunset](https://store.steampowered.com/app/1665260/Beyond_Sunset/)
 * [Castlevania: Simon's Destiny](https://batandy.itch.io/simonsdestiny)
 * [Daytime Drama](https://forum.zdoom.org/viewtopic.php?t=55387)
 * DOOM: The Golden Souls [1](https://batandy.itch.io/goldensouls) & [2](https://batandy.itch.io/goldensouls2)
@@ -22,7 +23,6 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 
 ### WIP
 * [The Age of Hell](https://store.steampowered.com/app/1779060/The_Age_of_Hell/)
-* [Beyond Sunset](https://store.steampowered.com/app/1665260/Beyond_Sunset/)
 * [Deluge: Onset](https://www.moddb.com/mods/deluge-onset)
 * [DISDAIN](https://store.steampowered.com/app/2113270/DISDAIN/)
 * [Divine Frequency](https://store.steampowered.com/app/2548880/Divine_Frequency/)

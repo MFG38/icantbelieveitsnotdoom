@@ -5,6 +5,7 @@ A curated list dedicated to listing awesome-looking projects (primarily TCs and 
 
 ### Finished/Released
 * [The Adventures of Square](http://adventuresofsquare.com/)
+* [Avixy](https://kovnikel.itch.io/avixy)
 * [Beyond Sunset](https://store.steampowered.com/app/1665260/Beyond_Sunset/)
 * [Castlevania: Simon's Destiny](https://batandy.itch.io/simonsdestiny)
 * [Daytime Drama](https://forum.zdoom.org/viewtopic.php?t=55387)
